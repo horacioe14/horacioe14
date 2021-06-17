@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Horacio
-- 👀 I’m interested in data science, data analytics
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Horacio!
+- 👀 I’m interested in data science, data engineering,python development, cloud engineering.
+- 🌱 I’m currently learning Natural Language Processing and Deep Learning.
+- 💞️ I’m looking to collaborate on data science projects.
+- 📫 Reach me at https://www.linkedin.com/in/horaciopineda/
 
 <!---
 horacioe14/horacioe14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
