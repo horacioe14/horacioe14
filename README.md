@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Horacio!
-- 👀 I’m interested in data science, data engineering, python development, cloud engineering.
+- 👀 I’m interested in data engineering, data science, python development, cloud engineering.
 - 🌱 I’m currently learning Machine Learning, Natural Language Processing, and Deep Learning.
 - 💞️ I’m looking to collaborate on data science projects.
 - 📫 Reach me at https://www.linkedin.com/in/horaciopineda/
