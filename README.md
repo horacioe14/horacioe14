@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Horacio!
-- 👀 I’m a data engineer. I work with databases, data pipelines, data science projects, python development and cloud engineering.
+- 👀 I’m a data engineer. I work with databases, data pipelines, cloud based systems, and data science projects.
 - 🌱 I’m actively learning and passionate about data technologies and data analytics.
 - 💞️ I’m looking to collaborate on data projects.
 - 📫 Reach me at https://www.linkedin.com/in/horaciopineda/
