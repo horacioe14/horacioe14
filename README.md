@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Horacio!
-- 👀 I’m interested in data engineering, data science, python development and cloud engineering.
-- 🌱 I’m actively learning and working on data analytics.
-- 💞️ I’m looking to collaborate on data engineering and cloud projects.
+- 👀 I’m a data engineer. I work with databases, data pipelines, data science projects, python development and cloud engineering.
+- 🌱 I’m actively learning and passionate about data technologies and data analytics.
+- 💞️ I’m looking to collaborate on data projects.
 - 📫 Reach me at https://www.linkedin.com/in/horaciopineda/
 
 <!---
